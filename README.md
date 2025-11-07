@@ -8,7 +8,9 @@ This application helps users manage and analyze their daily expenses efficiently
 
 ## 🖼️ Preview
 
-![Expense Tracker Screenshot]([./c2515530-db09-4c17-a7c1-26e7846600e4.png](https://github.com/Ritin420/ExpenseTracker/blob/main/screenshot.png))
+
+![Expense Tracker Screenshot](https://github.com/Ritin420/ExpenseTracker/blob/main/screenshot.png?raw=true)
+
 
 ---
 
@@ -51,5 +53,6 @@ npm install
 
 # 4️⃣ Start the development server
 npm start
+
 
 
